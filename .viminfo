@@ -12,11 +12,13 @@
 ~h
 # Command Line History (newest to oldest):
 :q!
-|2,0,1704390741,,"q!"
+|2,0,1704889660,,"q!"
+:!
+|2,0,1704889647,,"!"
+:wqa
+|2,0,1704889620,,"wqa"
 :wq
 |2,0,1704390734,,"wq"
-:wqa
-|2,0,1704350656,,"wqa"
 
 # Search String History (newest to oldest):
 
@@ -29,24 +31,47 @@
 # Registers:
 
 # File marks:
-'0  1  0  ~/Dockerfile
-|4,48,1,0,1704390741,"~/Dockerfile"
-'1  4  0  ~/Dockerfile
-|4,49,4,0,1704350656,"~/Dockerfile"
-'2  9  0  ~/Dockerfile
-|4,50,9,0,1704350656,"~/Dockerfile"
+'0  7  30  ~/bunny/asti/Dockerfile
+|4,48,7,30,1704889660,"~/bunny/asti/Dockerfile"
+'1  1  0  ~/Dockerfile
+|4,49,1,0,1704390741,"~/Dockerfile"
+'2  4  0  ~/Dockerfile
+|4,50,4,0,1704350656,"~/Dockerfile"
+'3  9  0  ~/Dockerfile
+|4,51,9,0,1704350656,"~/Dockerfile"
 
 # Jumplist (newest first):
+-'  7  30  ~/bunny/asti/Dockerfile
+|4,39,7,30,1704889660,"~/bunny/asti/Dockerfile"
+-'  1  0  ~/bunny/asti/Dockerfile
+|4,39,1,0,1704889550,"~/bunny/asti/Dockerfile"
+-'  1  0  ~/Dockerfile
+|4,39,1,0,1704390741,"~/Dockerfile"
 -'  1  0  ~/Dockerfile
 |4,39,1,0,1704390741,"~/Dockerfile"
 -'  4  0  ~/Dockerfile
 |4,39,4,0,1704390683,"~/Dockerfile"
+-'  4  0  ~/Dockerfile
+|4,39,4,0,1704390683,"~/Dockerfile"
+-'  9  0  ~/Dockerfile
+|4,39,9,0,1704350656,"~/Dockerfile"
 -'  9  0  ~/Dockerfile
 |4,39,9,0,1704350656,"~/Dockerfile"
 -'  1  0  ~/Dockerfile
 |4,39,1,0,1704350616,"~/Dockerfile"
+-'  1  0  ~/Dockerfile
+|4,39,1,0,1704350616,"~/Dockerfile"
 
 # History of marks within files (newest to oldest):
+
+> ~/bunny/asti/Dockerfile
+	*	1704889642	0
+	"	7	30
+	^	7	31
+	.	7	30
+	+	1	62
+	+	4	34
+	+	7	30
 
 > ~/Dockerfile
 	*	1704390738	0

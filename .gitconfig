@@ -1,3 +1,5 @@
 [user]
 	email = mlasrekar@gmail.com
 	name = Mangesh
+[safe]
+	directory = /home/ubuntu/bunny/asti

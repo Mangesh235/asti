@@ -345,3 +345,46 @@ sudo docker image push mangu235/astimage
 docker service create --name myservice -p 9090:80 --replicas 5 mangu235/astimage
 ls
 >>>>>>> origin/main
+ls
+cd asti/
+ls
+cd
+rm all
+sudo rmdir asti/
+sudo rmdir -r asti/
+sudo rm -r asti/
+ls
+rm Dockerfile 
+rm contact.html 
+rm css/
+sudo rm -r css/
+sudo rm -r images/
+rm index.html 
+rm -r js/
+rm trainer.html 
+rm sudo 
+rm why.html 
+ls
+sudo mkdir bunny
+ls
+ip a
+clear
+cd bunny/
+git clone https://github.com/Mangesh235/asti.git
+sudo git clone https://github.com/Mangesh235/asti.git
+ls
+cd asti
+git add .
+git commit -m "Your commit message"
+git config --global --add safe.directory /home/ubuntu/bunny/asti
+git add .
+sudo git add .
+sudo git commit -m "Your commit message"
+git push origin master
+git push origin main
+sudo git push origin main
+ls
+cd /
+ls
+home
+cd ls
